@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-customurlscheme",
+  "name": "aaa-cordova-plugin-customurlscheme",
   "version": "4.0.0",
   "description": "Launch your app by using this URL:  mycoolapp://, you can add a path and even pass params like this: mycoolerapp://somepath?foo=bar",
   "cordova": {
-    "id": "cordova-plugin-customurlscheme",
+    "id": "aaa-cordova-plugin-customurlscheme",
     "platforms": [
       "ios",
       "android",
